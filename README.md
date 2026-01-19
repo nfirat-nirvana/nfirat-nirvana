@@ -2,9 +2,9 @@
 
 ## Deputy Director| Medieval History Specialist |Researcher |Author 
 ## About Me
-- 🔹 Historical research and academic publications  
-- 🔹 Studies on the Medieval period  
-- 🔹 Education programs and project management  
+- Historical research and academic publications  
+- Studies on the Medieval period  
+- Education programs and project management  
 
 ## Interests
 - History and cultural heritage  
