@@ -12,7 +12,9 @@
 - Improving education and learning processes  
 
 ## Contact (linkedin)(https://www.linkedin.com/in/nuray-firat-371891334/)
-- 📫 Email: [n.firat@geisim.edu.tr](mailto:n.firat@geisim.edu.tr)  
+- 📫 Email: [n.firat@geisim.edu.tr](mailto:n.firat@geisim.edu.tr)
+- (googlescholar)(https://scholar.google.com/citations?user=yUDkaPwAAAAJ&hl=en)
+  
   
 <!--
 **nfirat-nirvana/nfirat-nirvana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
