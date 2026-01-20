@@ -3,6 +3,17 @@
 Akademik eğitim, sürekli eğitim yönetimi ve kalite süreçleri alanlarında deneyime sahip bir eğitim yöneticisiyim.  
 Hâlen **İstanbul Gelişim Üniversitesi Sürekli Eğitim Uygulama ve Araştırma Merkezi**nde yönetici olarak görev yapıyorum.
 
+Aynı zamanda **PR CARNET Medya ve İletişim Dergisi**'nde **uzman tarihçi ve araştırmacı yazar** olarak akademik ve analitik içerikler üretmekteyim.
+
+---
+
+## 📝 Yayın & Yazarlık
+### PR CARNET Medya ve İletişim Dergisi
+- Uzman tarihçi ve araştırmacı yazar  
+- Medya, iletişim ve tarih disiplinlerinin kesişim alanlarında akademik temelli yazılar  
+- Toplumsal dönüşüm, tarihsel bağlam ve iletişim pratiklerine odaklanan analizler  
+- Kaynaklı, etik ve eleştirel yayın anlayışı  
+
 ---
 
 ## 🎓 Akademik ve Mesleki İlgi Alanlarım
@@ -11,6 +22,8 @@ Hâlen **İstanbul Gelişim Üniversitesi Sürekli Eğitim Uygulama ve Araştır
 - Kalite yönetimi ve kurumsal süreçler  
 - Akademik yazım ve eğitim içerikleri  
 - Tarih, Ortaçağ çalışmaları ve Türk dili-edebiyatı  
+- Medya ve iletişim tarihi  
+- Türk-İslâm devlet geleneği ve adalet sistemi  
 
 ---
 
@@ -59,7 +72,7 @@ Hâlen **İstanbul Gelişim Üniversitesi Sürekli Eğitim Uygulama ve Araştır
   *Lisans – Türk Dili ve Edebiyatı* (2024 – 2028)
 
 - **Mimar Sinan Güzel Sanatlar Üniversitesi**  
-  *Yüksek Lisans – Ortaçağ* (2022 – 2024)
+  *Yüksek Lisans – Tarih (Ortaçağ)* (2022 – 2024)
 
 - **Anadolu Üniversitesi (AÖF)**  
   *Ön Lisans – Adalet* (2020 – 2023)
@@ -72,21 +85,34 @@ Hâlen **İstanbul Gelişim Üniversitesi Sürekli Eğitim Uygulama ve Araştır
 
 ---
 
+## 📚 Yüksek Lisans Tezi
+**Türk-İslâm Adâlet Mekanizması ve İlk Müslüman Türk Devletlerinde Adliye Teşkilatı**  
+*Turko-Islamic Justice Mechanism and Judicial Organization in the First Muslim Turkish States*  
+
+- Yazar: **Nuray Fırat**  
+- Yıl: **2024**  
+- Tür: **Yüksek Lisans Tezi**  
+- Anabilim Dalı: **Tarih (History)**  
+- Tez No: **913983**
+
+---
+
 ## 📌 Hedef
 Akademik ve kurumsal bilgi birikimimi;  
 - eğitim projeleri,  
-- akademik çalışmalar  
+- akademik çalışmalar,  
+- yayıncılık ve araştırma faaliyetleri,  
 - sürdürülebilir ve nitelikli eğitim modelleri  
 
 üzerinden geliştirmek ve paylaşmak.
 
 ---
 
-## Contact (linkedin)(https://www.linkedin.com/in/nuray-firat-371891334/)
-- 📫 Email: [n.firat@geisim.edu.tr](mailto:n.firat@geisim.edu.tr)
-- (googlescholar)(https://scholar.google.com/citations?user=yUDkaPwAAAAJ&hl=en)
-  
-  
+## 🔗 İletişim
+- 🔗 LinkedIn: https://www.linkedin.com/in/nuray-firat-371891334/  
+- 📫 Email: n.firat@gelisim.edu.tr  
+- 🎓 Google Scholar: https://scholar.google.com/citations?user=yUDkaPwAAAAJ&hl=en  
+
 <!--
 **nfirat-nirvana/nfirat-nirvana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
