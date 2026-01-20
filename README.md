@@ -107,11 +107,13 @@ Akademik ve kurumsal bilgi birikimimi;
 üzerinden geliştirmek ve paylaşmak.
 
 ---
+## 🔗 İletişim ve Sosyal Medya
 
-## 🔗 İletişim
-- 🔗 LinkedIn: https://www.linkedin.com/in/nuray-firat-371891334/  
+- 🔗 LinkedIn (Kişisel): [Nuray Fırat](https://www.linkedin.com/in/nuray-firat-371891334/)  
+- 🔗 LinkedIn (PR CARNET Medya ve İletişim Dergisi): [PR CARNET](https://www.linkedin.com/in/prcarnetdergisi/)  
 - 📫 Email: n.firat@gelisim.edu.tr  
-- 🎓 Google Scholar: https://scholar.google.com/citations?user=yUDkaPwAAAAJ&hl=en  
+- 🎓 Google Scholar: [Nuray Fırat](https://scholar.google.com/citations?user=yUDkaPwAAAAJ&hl=en)
+
 
 <!--
 **nfirat-nirvana/nfirat-nirvana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
