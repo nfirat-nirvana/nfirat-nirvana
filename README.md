@@ -1,6 +1,6 @@
 # 👋 Merhaba, ben Nuray Fırat
 
-Akademik eğitim, sürekli eğitim yönetimi ve kalite süreçleri alanlarında deneyime sahip bir eğitim yöneticisiyim.  
+Sürekli eğitim yönetimi ve kalite süreçleri alanlarında deneyime sahip bir eğitim yöneticisiyim.  
 Hâlen **İstanbul Gelişim Üniversitesi Sürekli Eğitim Uygulama ve Araştırma Merkezi**nde yönetici olarak görev yapıyorum.
 
 Aynı zamanda **PR CARNET Medya ve İletişim Dergisi**'nde **uzman tarihçi ve araştırmacı yazar** olarak akademik ve analitik içerikler üretmekteyim.
